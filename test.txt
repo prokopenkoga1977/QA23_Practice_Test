@@ -5,3 +5,6 @@ Test text 4
 Test text 5
 Test text 6
 Test text 7
+Test text 8 (change from GitHub)
+Test text 9 (change from GitHub)
+Test text 10 (change from GitHub)
