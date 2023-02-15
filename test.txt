@@ -8,3 +8,5 @@ Test text 7
 Test text 8 (change from GitHub)
 Test text 9 (change from GitHub)
 Test text 10 (change from GitHub)
+Test text 11 (change from localgit)
+Test text 12 (change from localgit)
